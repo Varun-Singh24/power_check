@@ -39,10 +39,12 @@ The N is power of 2 !
 ```
 ##  🛠️ How to Run
 Clone the repo: 
+```
 git clone [https://github.com/your-username/power-of-two-cpp.git](https://github.com/your-username/power-of-two-cpp.git)
+```
 Compile:
-
+```
 g++ main.cpp -o power_check
-Execute:
-
+```
+Execute: 
 ./power_check
