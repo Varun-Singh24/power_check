@@ -47,4 +47,6 @@ Compile:
 g++ main.cpp -o power_check
 ```
 Execute: 
+```
 ./power_check
+```
