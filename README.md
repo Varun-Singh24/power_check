@@ -37,11 +37,7 @@ if (n > 0 && (n & (n-1)) == 0 ) {
 Enter N : 16
 The N is power of 2 !
 ```
-##  🛠️ How to Run
-Clone the repo: 
-```
-git clone [https://github.com/your-username/power-of-two-cpp.git](https://github.com/your-username/power-of-two-cpp.git)
-```
+##  🛠️ How to Run 
 Compile:
 ```
 g++ main.cpp -o power_check
